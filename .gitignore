@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# 工具產物 / 本機設定
+.impeccable/
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.mobileprovision
+
+# 套件
+node_modules/
+Pods/
